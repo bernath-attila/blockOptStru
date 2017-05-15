@@ -1,0 +1,2 @@
+# blockOptStru
+Blocking optimal structures
